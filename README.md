@@ -1,7 +1,8 @@
 # Logocuibo
 A basic script to create custom bootlogo
 
-Img4tool by Tihmstar
+img4tool by Tihmstar
+
 ibootim by realnp
 
 
